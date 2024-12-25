@@ -1,8 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 hyy hello hyy
 >>>>>>> b1b76e4 (added 4)
 =======
 hyy hello hyy
 >>>>>>> feature-branch
+=======
+hyy hello hyy
+>>>>>>> b1b76e4 (added 4)
