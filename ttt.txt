@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 hyy hello hyy
 >>>>>>> b1b76e4 (added 4)
@@ -10,3 +11,6 @@ hyy hello hyy
 =======
 hyy hello hyy
 >>>>>>> b1b76e4 (added 4)
+=======
+hyy
+>>>>>>> 93580ae (added 2)
